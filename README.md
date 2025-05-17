@@ -14,7 +14,9 @@ Autonomous Index Tuner is an AI-powered tool that automatically analyzes databas
 ⚡ Installation  
 bash
 git clone https://github.com/Orsu-Ravi-Kumar/autonomous-index-tuner.git
+
 cd autonomous-index-tuner
+
 pip install -r requirements.txt
 
 
